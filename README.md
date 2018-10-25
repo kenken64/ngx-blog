@@ -1,4 +1,4 @@
-# MiniAssessment3
+# Ngx-blog
 
 ## Install Ngx Quil
 ```
