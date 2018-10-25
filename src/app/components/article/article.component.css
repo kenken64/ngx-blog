@@ -1,0 +1,12 @@
+.article-news {
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+
+img {
+    border: 1px solid #ddd; /* Gray border */
+    border-radius: 4px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    width: 350px; /* Set a small width */
+}
